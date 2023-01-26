@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5867cf16-2b0f-4c6a-a679-5afb66e4e3d6" name="Changes" comment="" />
+    <list default="true" id="ea7ea5c3-8479-40c6-99bd-7a0729005b48" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/FirstEx0125/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FirstEx0125/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstEx0125/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FirstEx0125/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstEx0125/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FirstEx0125/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="2KnV7POKkRjnx8aK2mL0qdSXeLk" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/FirstEx0125" />
+  </component>
+  <component name="ProjectId" id="2KnVU5WBvQMoOGdueqepSsuMGMZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -17,18 +24,42 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "F:/javabootcamp/Project",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5867cf16-2b0f-4c6a-a679-5afb66e4e3d6" name="Changes" comment="" />
-      <created>1674610168216</created>
+      <changelist id="ea7ea5c3-8479-40c6-99bd-7a0729005b48" name="Changes" comment="" />
+      <created>1674610346548</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1674610168216</updated>
+      <updated>1674610346548</updated>
+      <workItem from="1674610347705" duration="21000" />
+      <workItem from="1674610949182" duration="30000" />
+      <workItem from="1674691889162" duration="47000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/Chap01" />
+    </ignored-roots>
   </component>
 </project>
