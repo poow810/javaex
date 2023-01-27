@@ -26,15 +26,15 @@ public class day2homework {
         System.out.printf("영어 = %d, 물리학 = %d, 미적분학 = %d\n", english, physics, math);
         int add = english + physics + math;
         int average = add / 3;
-        System.out.printf("총점 = %d, 평균 = %.1f\n", add, (float)average);
+        System.out.printf("총점 = %d, 평균 = %.1f\n", add, (float)average); // int형 변수를 float로 casting
         System.out.printf("주소 = %s\n", adress);
 
         // 문제 2번 윤년 판단
         int year;
         System.out.print("년도를 입력하세요 : ");
         year = in.nextInt();
-        if (year / 4 == 0) {
-            if (year / 100 != 0 || year / 400 == 0) {
+        if (year % 4 == 0) {
+            if (year % 100 != 0 || year % 400 == 0) {
                 System.out.println("윤년");
             }
         } else {
