@@ -5,18 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea7ea5c3-8479-40c6-99bd-7a0729005b48" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/IfForEx0126/src/edu/ifforex/ForEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IfForEx0126/src/edu/ifforex/GuGuDan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IfForEx0126/src/method/MethodEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IfForEx0126/src/method/SwitchONE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IfForEx0126/src/method/SwitchTWO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ForExTwo0130/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ForExTwo0130/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ForExTwo0130/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ForExTwo0130/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ForExTwo0130/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ForExTwo0130/ForExTwo0130.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ForExTwo0130/src/edu/forextwo/ForExTwo0130.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPOne0130/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPOne0130/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPOne0130/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPOne0130/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPOne0130/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPOne0130/OOPOne0130.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPOne0130/src/edu/oopfirst/OOPOne0130.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WhileEx0130/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WhileEx0130/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WhileEx0130/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WhileEx0130/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WhileEx0130/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WhileEx0130/WhileEx0130.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WhileEx0130/src/edu/whileEx/WhileEx0130.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IfForEx0126/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/IfForEx0126/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IfForEx0126/IfForEx0126.iml" beforeDir="false" afterPath="$PROJECT_DIR$/IfForEx0126/Ch3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IfForEx0126/out/production/IfForEx0126/edu/ifforex/IfForEx0126.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IfForEx0126/out/production/IfForEx0126/edu/ifforex/day2homework.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IfForEx0126/src/edu/ifforex/IfForEx0126.java" beforeDir="false" afterPath="$PROJECT_DIR$/IfForEx0126/src/edu/ifforex/IfForEx0126.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScannerEX0126/src/edu/inha/scanner/day2homework.java" beforeDir="false" afterPath="$PROJECT_DIR$/ScannerEX0126/src/edu/inha/scanner/day2homework.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,13 +50,14 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "F:/java/Project/IfForEx0126",
+    "last_opened_file_path": "F:/java/Project",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -63,6 +75,7 @@
       <workItem from="1674697892375" duration="61000" />
       <workItem from="1674718979983" duration="76000" />
       <workItem from="1674801778709" duration="33000" />
+      <workItem from="1675036754582" duration="1420000" />
     </task>
     <servers />
   </component>
@@ -84,6 +97,7 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/Chap01" />
       <path value="$PROJECT_DIR$/FirstEx0125" />
+      <path value="$PROJECT_DIR$/ScannerEX0126/ScannerEx0126" />
     </ignored-roots>
   </component>
 </project>
