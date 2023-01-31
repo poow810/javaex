@@ -13,18 +13,22 @@ class Person {
     private int age; // 캡슐화(private)
     // 1) information hiding / 2) class bonding
     //기본생성자(default constructor) - 생성자 앞에는 반환 type 쓰지않는다.
+    static char blood = 'A';
+    public static void display(){
+        System.out.printf("display() 메서드 안 blood = %s\n", blood);
+    }
     public Person(){
         System.out.println("난 Person 기본생성자");
     }
 
+
     public Person(String pname, int page) {
         name = pname;
         age = page;
-        System.out.println("나는 매개변수 두 개인 Person 생성자");
     }
 
-    public void setAge(int page){
-        age = page;
+    public void setAge(int age){
+        this.age = age;
     }
     public int getAge(){
         return age;
@@ -41,22 +45,25 @@ class Person {
         name = "아무개";
         System.out.println("talk() 메서드이다.");
     }         // talk 앞에 반환하는 type를 붙여주어야함 (int, string 등)
+    public void talk(String shouting){
+        System.out.printf("shouting=%s\n", shouting);
+    }
+    public void talk(String shouting, int page){        // parameter의 개수가 다르면 서로 다른 메서드로 취급한다
+        System.out.printf("shouting=%s\n", shouting);
+        System.out.printf("shouting=%d\n", page);
+    }
+    public void talk(int page,String shouting){
+        System.out.printf("shouting=%d\n", page);
+        System.out.printf("shouting=%s\n", shouting);
+    }
 
     public void breathe() {
-        age = 26;
-        System.out.println("breathe() 메서드이다.");
+        age=1;
     }
 }
 
 public class OOPOne0130 {
     public static void main(String[] args) {
-
-//        int val[] = new int[] {10, 20, 30};
-        int val[] = new int[3];
-        val[0] = 10; val[1] = 20; val[2] = 30;
-        for (int i=0; i<=2; ++i){
-            System.out.printf("val[%d]=%d\n", i, val[i]);
-        }
 
         Scanner in = new Scanner(System.in);
         String myname ;
@@ -82,13 +89,18 @@ public class OOPOne0130 {
 //        System.out.printf("gildong.name=%s\n", gildong.name);
         System.out.printf("gildong.age=%d\n", gildong.getAge()); // name과 age에 접근할 수 있도록 간접적으로 메소드를 만들어주어야함.
         System.out.printf("gildong.name=%s\n", gildong.getName());
+
+        gildong.talk();
+        gildong.talk("열공하자");
+        gildong.talk("박하운", 25);
+        gildong.talk(gildong.getAge(), "길동");
+        Person.display();
     }
 }
 
 /* 스택 영역 : main함수의 stack
    힙 영역(종적 메모리) : 인스턴스 객체
 
-   main 함수에서 변수에 접근하기
- */
+   main 함수에서 변수에 접근하기 */
 
 // 생성자, set, get
