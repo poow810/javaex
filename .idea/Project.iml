@@ -2,7 +2,20 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Car0130/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/FirstEx0125/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ForExTwo0130/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuGuDan0127/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/IfForEx0126/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Inheritance/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lotto0130/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OOPOne0130/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OperatorEx/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PrimeNumber/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ScannerEX0126/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/WhileEx0130/src" isTestSource="false" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
