@@ -5,19 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea7ea5c3-8479-40c6-99bd-7a0729005b48" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Carclass0131/Carclass0131.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/src/edu/interfaceone/Interface.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Project.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Car0130/src/ex/car/Car0130.java" beforeDir="false" afterPath="$PROJECT_DIR$/Car0130/src/ex/car/Car0130.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Car_2/src/homework/Car_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Car_2/src/homework/Car_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstEx0125/src/day1homework.java" beforeDir="false" afterPath="$PROJECT_DIR$/FirstEx0125/src/day1homework.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IfForEx0126/src/edu/ifforex/IfForEx0126.java" beforeDir="false" afterPath="$PROJECT_DIR$/IfForEx0126/src/edu/ifforex/IfForEx0126.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Inheritance/src/edu/inheritance/inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance/src/edu/inheritance/inheritance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/javabootcamp/FirstEx0125.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/javabootcamp/FirstEx0125.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/javabootcamp/day1homework.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/javabootcamp/day1homework.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project/day1homework.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project/day1homework.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project/edu/ifforex/IfForEx0126.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project/edu/ifforex/IfForEx0126.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project/edu/inheritance/Man.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project/edu/inheritance/Man.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project/edu/inheritance/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project/edu/inheritance/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project/edu/inheritance/inheritance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project/edu/inheritance/inheritance.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -33,7 +39,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2KnVU5WBvQMoOGdueqepSsuMGMZ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -50,7 +58,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+    "settings.editor.selected.configurable": "project.propCompiler"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -72,7 +80,8 @@
       <workItem from="1675142915299" duration="25000" />
       <workItem from="1675143303909" duration="122000" />
       <workItem from="1675143601693" duration="5011000" />
-      <workItem from="1675149874155" duration="6659000" />
+      <workItem from="1675149874155" duration="6740000" />
+      <workItem from="1675167952842" duration="12247000" />
     </task>
     <servers />
   </component>

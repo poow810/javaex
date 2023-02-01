@@ -1,5 +1,7 @@
 public class day1homework {
     public static void main(String[] args) {
+        byte b = (byte)300;
+        System.out.println(b);
 //        // 문제 1번
 //        char a = 'a'; //A.
 //        char b = "a"; //B.

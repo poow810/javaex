@@ -15,6 +15,9 @@
       <sourceFolder url="file://$MODULE_DIR$/PrimeNumber/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ScannerEX0126/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/WhileEx0130/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Car_2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Carclass0131/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/polymor0201/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

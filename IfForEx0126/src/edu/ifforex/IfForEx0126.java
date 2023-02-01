@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class IfForEx0126 {
     public static void main(String[] args) {
-        int a = 0;
+        int a = 3;
 
         if (a > 0) {
             System.out.printf("a = %d는 양수임\n", a);
