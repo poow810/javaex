@@ -5,17 +5,55 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea7ea5c3-8479-40c6-99bd-7a0729005b48" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Interface/src/edu/interfaceone/Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Carrier/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Carrier/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Carrier/DriverExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Carrier/Taxi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Carrier/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/Example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/src/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework0201/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework0201/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework0201/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework0201/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework0201/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework0201/Homework0201.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework0201/src/home/work/Homework0201.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Interface.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstEx0125/src/day1homework.java" beforeDir="false" afterPath="$PROJECT_DIR$/FirstEx0125/src/day1homework.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IfForEx0126/src/edu/ifforex/IfForEx0126.java" beforeDir="false" afterPath="$PROJECT_DIR$/IfForEx0126/src/edu/ifforex/IfForEx0126.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/src/edu/inheritance/inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance/src/edu/inheritance/inheritance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Carclass0131/src/car2/CarClass0131.java" beforeDir="false" afterPath="$PROJECT_DIR$/Carclass0131/src/car2/CarClass0131.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interface/src/edu/interfaceone/Interface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lotto0130/src/ex/lotto/Lotto0130.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lotto0130/src/ex/lotto/Lotto0130.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project/Ex0126.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project/Ex0126.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project/FirstEx0125.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project/FirstEx0125.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project/GuGuDan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project/GuGuDan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project/OperatorEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project/OperatorEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project/PrimeNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project/PrimeNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project/PrimeNumber_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project/PrimeNumber_2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Project/day1homework.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project/day1homework.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project/edu/forextwo/ForExTwo0130.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project/edu/forextwo/ForExTwo0130.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project/edu/ifforex/ForEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project/edu/ifforex/ForEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project/edu/ifforex/GuGuDan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project/edu/ifforex/GuGuDan.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Project/edu/ifforex/IfForEx0126.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project/edu/ifforex/IfForEx0126.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project/edu/ifforex/day2homework.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project/edu/ifforex/day2homework.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project/edu/inha/scanner/ScannerEx0126.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project/edu/inha/scanner/ScannerEx0126.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project/edu/inha/scanner/day2homework.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project/edu/inha/scanner/day2homework.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Project/edu/inheritance/Man.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project/edu/inheritance/Man.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Project/edu/inheritance/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project/edu/inheritance/Person.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Project/edu/inheritance/inheritance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project/edu/inheritance/inheritance.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project/edu/oopfirst/OOPOne0130.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project/edu/oopfirst/OOPOne0130.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project/edu/oopfirst/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project/edu/oopfirst/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project/edu/whileEx/WhileEx0130.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project/edu/whileEx/WhileEx0130.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project/ex/car/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project/ex/car/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project/ex/car/Car0130.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project/ex/car/Car0130.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project/ex/lotto/Lotto0130.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project/ex/lotto/Lotto0130.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project/method/MethodEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project/method/MethodEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project/method/SwitchONE.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project/method/SwitchONE.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project/method/SwitchTWO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project/method/SwitchTWO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/q" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,13 +90,14 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ToolWindowHierarchy.ShowToolbar": "false",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "F:/java/Project",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propCompiler"
+    "settings.editor.selected.configurable": "File.Encoding"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -81,7 +120,19 @@
       <workItem from="1675143303909" duration="122000" />
       <workItem from="1675143601693" duration="5011000" />
       <workItem from="1675149874155" duration="6740000" />
-      <workItem from="1675167952842" duration="12247000" />
+      <workItem from="1675167952842" duration="13445000" />
+      <workItem from="1675241477222" duration="165000" />
+      <workItem from="1675243101726" duration="12883000" />
+      <workItem from="1675310645897" duration="63000" />
+      <workItem from="1675314917226" duration="645000" />
+      <workItem from="1675642326329" duration="2596000" />
+      <workItem from="1676115230224" duration="189000" />
+      <workItem from="1676115664107" duration="28000" />
+      <workItem from="1676117203250" duration="1913000" />
+      <workItem from="1676178554960" duration="2040000" />
+      <workItem from="1676181031914" duration="6385000" />
+      <workItem from="1677040556868" duration="50000" />
+      <workItem from="1677757723943" duration="949000" />
     </task>
     <servers />
   </component>

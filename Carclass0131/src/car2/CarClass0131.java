@@ -56,21 +56,26 @@ class Car {
 class RentCar extends Car {
     public RentCar() {
     }
+
     private int fare;
     private String comp;
 
     public RentCar(String name, String color, String adress, int velo, int num, String comp, int fare) {
         super(name, color, adress, velo, num);
     }
+
     public void setFare(int fare) {
         this.fare = fare;
     }
+
     public int getFare() {
         return fare;
     }
+
     public void setComp(String comp) {
         this.comp = comp;
     }
+
     public String getComp() {
         return comp;
     }

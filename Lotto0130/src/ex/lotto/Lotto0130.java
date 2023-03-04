@@ -15,7 +15,6 @@ public class Lotto0130 {
                     i--;        // 중복 시 반복문을 한 번 더 돌려야함
                 }
             }
-
         }
         System.out.print("입력된 로또번호 : ");
         for (int a : lotto)
